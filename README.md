@@ -25,5 +25,3 @@ https://catalog.data.gov/dataset/monthly-provisional-counts-of-deaths-by-age-gro
 AH Provisional Cancer Death Counts by Month and Year, 2020-2021
 https://catalog.data.gov/dataset/ah-provisional-cancer-death-counts-by-month-and-year-2020-2021-ab4a5
 
-CDC WONDER: Cancer Statistics
-https://catalog.data.gov/dataset/cdc-wonder-cancer-statistics
