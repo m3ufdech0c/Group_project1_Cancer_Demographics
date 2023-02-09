@@ -3,15 +3,15 @@ Project 1 - Role of Demographics in Cancer (2020)
 Team Members : Raul Doria, Ever Campos, Aida Ndiongue
 
 
-Project Description - Is a certain demographic more prone to get cancer? 
-We have decided to see if there is a correlation between Age, Race and Ethnicity, and the likeliness of them getting diagnosed with cancer and it being terminal.
-
+Project Description - Are certain demographics more prone to getting cancer? 
+We have decided to explore cancer (a.k.a neoplasm) in year 2020 to see if there is a correlation between Age, Race and Ethnicity, and the likeliness of getting a malignant form of neoplasm resulting in mortality.
 
 Research Questions to Answer : 
-Highest Mortality Rates by Type of Cancer
-Which Demographic is most prone to Cancer / & results in Death?
-Which Cancer type is more prominent by Gender ? 
-What age group is most prone to getting Cancer?
+What age group is more prone to dying from Cancer? - Aida
+Which Demographic is most prone to Cancer resulting in Death? - Raul
+Which Cancer type is more prominent by Gender ? - Ever
+Which Type of Cancer presents the highest Mortality - Aida
+
 
 
 DataSets to be Used : 
