@@ -10,7 +10,7 @@ Research Questions to Answer :
 What age group is more prone to dying from Cancer? - Aida
 Which Demographic is most prone to Cancer resulting in Death? - Raul
 Which Cancer type is more prominent by Gender ? - Ever
-Which Type of Cancer presents the highest Mortality - Aida
+Which Type of Cancer presents the highest Mortality? - Aida
 
 
 
